@@ -1,0 +1,13 @@
+Gusano.png
+size:2048,512
+repeat:none
+Attack
+bounds:2,278,1440,90
+Death
+bounds:2,2,720,90
+Get Hit
+bounds:1444,278,270,90
+Idle
+bounds:2,94,810,90
+Walk
+bounds:2,186,810,90

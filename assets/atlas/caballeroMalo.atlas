@@ -1,0 +1,17 @@
+caballeroMalo.png
+size:4096,512
+repeat:none
+noBKG_KnightAttack_strip
+bounds:2,266,3168,64
+noBKG_KnightDeath_strip
+bounds:2,68,1440,64
+noBKG_KnightIdle_strip
+bounds:2,2,960,64
+noBKG_KnightJumpAndFall_strip
+bounds:2,134,2160,64
+noBKG_KnightRoll_strip
+bounds:2,200,2700,64
+noBKG_KnightRun_strip
+bounds:3172,266,768,64
+noBKG_KnightShield_strip
+bounds:2704,200,672,64

@@ -1,0 +1,13 @@
+goblin.png
+size:1024,32
+repeat:none
+goblinsmasher_attack_outline
+bounds:2,2,256,16
+goblinsmasher_death_outline
+bounds:260,2,192,16
+goblinsmasher_hurt_outline
+bounds:714,2,32,16
+goblinsmasher_idle_outline
+bounds:454,2,128,16
+goblinsmasher_run_outline
+bounds:584,2,128,16

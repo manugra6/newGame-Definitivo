@@ -1,0 +1,19 @@
+Evil_Wizard.png
+size:2048,2048
+repeat:none
+Attack1
+bounds:2,1262,2000,250
+Attack2
+bounds:2,1514,2000,250
+Death
+bounds:2,506,1750,250
+Fall
+bounds:754,254,500,250
+Idle
+bounds:2,1010,2000,250
+Jump
+bounds:2,2,500,250
+Run
+bounds:2,758,2000,250
+Take hit
+bounds:2,254,750,250

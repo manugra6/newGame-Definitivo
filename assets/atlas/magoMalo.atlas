@@ -1,0 +1,13 @@
+magoMalo.png
+size:2048,512
+repeat:none
+Attack
+bounds:2,306,1200,150
+Death
+bounds:1204,306,750,150
+Idle
+bounds:2,154,1200,150
+Move
+bounds:2,2,1200,150
+Take Hit
+bounds:1204,154,600,150

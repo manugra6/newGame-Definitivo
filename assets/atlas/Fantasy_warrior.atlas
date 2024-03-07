@@ -1,0 +1,21 @@
+Fantasy_warrior.png
+size:2048,1024
+repeat:none
+Attack1
+bounds:2,166,1134,162
+Attack2
+bounds:2,330,1134,162
+Attack3
+bounds:2,658,1296,162
+Death
+bounds:2,2,1134,162
+Fall
+bounds:1138,330,486,162
+Idle
+bounds:2,822,1620,162
+Jump
+bounds:1300,494,486,162
+Run
+bounds:2,494,1296,162
+Take hit
+bounds:1300,658,486,162

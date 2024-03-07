@@ -1,0 +1,13 @@
+rata.png
+size:1024,64
+repeat:none
+rat-attack-outline
+bounds:2,2,192,32
+rat-death-outline
+bounds:584,2,192,32
+rat-hurt-outline
+bounds:778,2,32,32
+rat-idle-outline
+bounds:390,2,192,32
+rat-run-outline
+bounds:196,2,192,32

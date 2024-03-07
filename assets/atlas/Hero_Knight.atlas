@@ -1,0 +1,21 @@
+Hero_Knight.png
+size:2048,2048
+repeat:none
+Attack1
+bounds:2,548,1260,180
+Attack2
+bounds:2,730,1260,180
+Death
+bounds:2,1275,1980,180
+Fall
+bounds:2,2,540,180
+Idle
+bounds:2,1457,1980,180
+Jump
+bounds:2,184,540,180
+Run
+bounds:2,1093,1440,180
+RunBackwards
+bounds:2,912,1440,179
+Take Hit
+bounds:2,366,720,180
